@@ -180,7 +180,7 @@ input[type="submit"],input[type="reset"],.w3ls_footer_grid_leftl,.w3ls_footer_gr
 }
 /*-- //header --*/
 #home {
-    background: url(../images/banner.jpg) no-repeat center top;
+    background: url(/images/banner.jpg) no-repeat center top;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -285,14 +285,14 @@ input[type="submit"],input[type="reset"],.w3ls_footer_grid_leftl,.w3ls_footer_gr
     text-decoration: none;
     width:32px;
     height:32px;
-    background: transparent url("../images/left.png") no-repeat left top;
+    background: transparent url("/images/left.png") no-repeat left top;
 }
  .callbacks_nav:hover{
   	opacity: 0.5;
   }
 .callbacks_nav.next {
   left: auto;
-   background: transparent url("../images/right.png") no-repeat right top;
+   background: transparent url("/images/right.png") no-repeat right top;
        left: 51%;
  }
  .callbacks_nav.prev {
@@ -504,7 +504,7 @@ h3.tittle:after, h3.tittle:before {
 }
 /*-- /services --*/
 #services{
-    background: url(../images/serve.jpg) no-repeat center top;
+    background: url(/images/serve.jpg) no-repeat center top;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -538,7 +538,7 @@ h3.w3l_head.two {
 /*-- //services --*/
 /*-- /skills --*/
 .skills{
-      background: url(../images/banner.jpg) no-repeat center top;
+      background: url(/images/banner.jpg) no-repeat center top;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -730,7 +730,7 @@ p.b_label {
 }
 /*-- //portfolio --*/
 #counter {
-    background: url(../images/banner.jpg) no-repeat center top;
+    background: url(/images/banner.jpg) no-repeat center top;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -1048,7 +1048,7 @@ p.counter {
 	height: 32px;
 	border: none;
 	text-indent: 100%;
-	background: url(../images/arrow.png) no-repeat 0px 0px;
+	background: url(/images/arrow.png) no-repeat 0px 0px;
 }
 #toTopHover {
 	width: 32px;
