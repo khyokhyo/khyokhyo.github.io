@@ -6,17 +6,17 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
 html, body{
     font-size: 100%;
-	font-family: 'Segoe Print', sans-serif;
+	font-family: 'Patrick Hand', sans-serif;
 	background:#ffffff;
 	margin: 0;
 }
 p,ul li,ol li{
 	margin:0;
-	font-size:14px;
+	font-size:17px;
 	letter-spacing: 1px;
 }
 h1,h2,h3,h4,h5,h6{
-	font-family: 'Segoe Print', sans-serif;
+	font-family: 'Patrick Hand', sans-serif;
 	text-transform:none;
 	margin:0;
 }
@@ -140,7 +140,7 @@ input[type="submit"],input[type="reset"],.w3ls_footer_grid_leftl,.w3ls_footer_gr
      color: #44c7f4!important;
 }
 .navbar-nav > li > a {
-    font-size: 14px;
+    font-size: 15px;
     text-transform: none;
     color: #fff!important;
 }
@@ -1154,7 +1154,7 @@ p.counter {
 		position: relative;
 		display: block;
 		padding: 15px 2px;
-		font-size: 13px;
+		font-size: 15px;
 	}
 	.agile-about-right-img img {
 		width: 55%;
@@ -1399,7 +1399,7 @@ p.counter {
 	}
 	p, ul li, ol li {
 		margin: 0;
-		font-size: 13px!important;
+		font-size: 15px!important;
 		letter-spacing: 1px;
 	}
 	p.counter {
@@ -1613,7 +1613,7 @@ p.counter {
 	}
 	ul.top-links li a i.fa {
 		color: #000;
-		font-size: 13px;
+		font-size: 15px;
 		line-height: 29px;
 		width: 33px;
 		height: 33px;
